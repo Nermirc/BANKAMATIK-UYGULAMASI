@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1727182982 source:c:\users\rakri\onedrive\masaüstü\c++\sipılaspılas\bankamatik\main.c
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+	<time.h>
+	<stdio.h>
+
